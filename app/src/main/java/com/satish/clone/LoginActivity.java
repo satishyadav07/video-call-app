@@ -18,6 +18,8 @@ public class LoginActivity extends AppCompatActivity {
     CountryCodePicker countryCodePicker;
     EditText phoneInput;
     Button sendOtpBtn;
+
+
     ProgressBar progressBar;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
