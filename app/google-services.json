@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "445915503530",
+    "project_id": "imo-clone-ceda9",
+    "storage_bucket": "imo-clone-ceda9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445915503530:android:fc127005403cc13aeda9d3",
+        "android_client_info": {
+          "package_name": "com.satish.clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzZtFFKQCAZC4RLwi5LZEZA5i6Wyxs_68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
